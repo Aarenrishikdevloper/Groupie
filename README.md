@@ -1,5 +1,5 @@
 # Groupie    
- Groupie is a Group based chat app build with flutter and Firebase with Cloudfirestore, Firebase auth and Strambuilder 
+ # Groupie is a Group based chat app build with flutter and Firebase with Cloudfirestore, Firebase auth and Strambuilder 
  
 # Features 
 
