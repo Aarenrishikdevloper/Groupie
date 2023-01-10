@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499638840489",
+    "project_id": "chatapp-66cbe",
+    "storage_bucket": "chatapp-66cbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499638840489:android:50ec4553a8f0936efccdb8",
+        "android_client_info": {
+          "package_name": "com.rishik.chatapp.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499638840489-k3s8rhv9al9hg2nguu6r6keicdgn92l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArwXKdM2bu7_8LNzqLdVFnUF8-RIVzi84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499638840489-k3s8rhv9al9hg2nguu6r6keicdgn92l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
