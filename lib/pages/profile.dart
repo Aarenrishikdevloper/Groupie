@@ -32,7 +32,7 @@ class profile extends StatelessWidget {
             SizedBox(height: 30,),
             ListTile(
               onTap: (){
-                Navigator.of(context).push(MaterialPageRoute(builder: (context) => home()));
+                Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => home()));
               },
 
               contentPadding: EdgeInsets.symmetric(horizontal: 20, vertical: 5),
